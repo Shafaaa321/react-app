@@ -18,26 +18,21 @@ const pic = () => {
     <h2 className="profile-name">Richard Guerra</h2>
     <p className="profile-title">CTO</p>
   </div>
-   <div className="profile-card">
-   <img src={picImage3} alt="profile3" className="profile-image3" />
-   <h2 className="profile-name">Alexandra Stolz</h2>
-   <p className="profile-title">DESIGNER</p>
-   
- </div>
- <div className="profile-card">
-   <img src={picImage4} alt="profile4" className="profile-image4" />
-   <h2 className="profile-name">Janet Bray</h2>
-   <p className="profile-title">DEVELOPER</p>
-   
- </div>
+  <div className="profile-card">
+    <img src={picImage3} alt="profile3" className="profile-image3" />
+    <h2 className="profile-name">Alexandra Stolz</h2>
+    <p className="profile-title">DESIGNER</p>
+  </div>
+  <div className="profile-card">
+    <img src={picImage4} alt="profile4" className="profile-image4" />
+    <h2 className="profile-name">Janet Bray</h2>
+    <p className="profile-title">DEVELOPER</p>
+  </div>
     </div>
-   <div className='button-class'>
-   <button className="learn-button4">view team</button>
-   </div>
-
-    
+    <div className='button-class'>
+      <button className="learn-button4">view team</button>
+    </div>
     </>
-    
   );
 };
 

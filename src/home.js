@@ -18,7 +18,7 @@ const Home = () => {
         <Cloud />
         <Pic />
       </main>
-      <Footer />
+        <Footer />
     </div>
   );
 };

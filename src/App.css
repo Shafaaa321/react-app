@@ -66,9 +66,7 @@ main{
 }
 .welcome-section{
   color: #FFF;
-  /* padding-left: 10px;
-  transform: translateY(70%);
-margin-bottom: 20px; */
+  
 }
 
 .explore-button{
@@ -360,12 +358,12 @@ form {
   gap: 15px;
 }
 
-label {
+ label {
   font-size: 16px;
   font-weight: bold;
-}
+} 
 
-input,
+ input,
 textarea {
   width: 100%;
   padding: 10px;
@@ -373,12 +371,11 @@ textarea {
   border: 1px solid #080404;
   border-radius: 8px;
   background-color: #f1f1f1;
-}
-
-textarea {
+} 
+ textarea {
   height: 120px;
   resize: none;
-}
+} 
 button {
   width: 100%;
   padding: 12px;
@@ -393,15 +390,14 @@ button {
 
 button:hover {
   background-color: #555;
-    transform: scale(1.1); /* Button enlarges on hover */
+    transform: scale(1.1);
   }
-  /* SimpleMap.css */
 
 .map-container {
   padding: 20px;
-  background-color: #f4f4f4; /* Light gray background for the map section */
-  border-radius: 10px; /* Round the corners */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow for the map container */
+  background-color: #f4f4f4; 
+  border-radius: 10px; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   margin-top: 30px;
 }
 
@@ -516,9 +512,6 @@ iframe {
   .Menu{
     display: none;
   }
-  /* .learn-button2{
-    width: 400px;
-  } */
   .learn-button3{
     width: 200px;
   }
