@@ -8,6 +8,6 @@ const cloud = () => {
       <h3 className='amet'>Lorem ipsum, dolor sit amet consectetur adipisicing elit</h3>
     </div>
   );
-};
+};  
 
 export default cloud;

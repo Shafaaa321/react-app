@@ -10,7 +10,7 @@ import You from './asset/Group 39.png'
 const footer = () => {
   return (
     <footer className='footer'>
-      <div className='info'>
+      <div className='info'>  
         <img src={Face} alt='face' className='face' />
         <img src={Insta} alt='instagram'  className='insta' />
         <img src={Twit} alt='twit' className='twit'  />

@@ -7,7 +7,7 @@ import Service from './service';
 import Contact from './contact'; 
 
 const App = () => {
-  return (
+  return (  
     <Router>
       <Routes>
         <Route path="/" element={<Home />} /> 

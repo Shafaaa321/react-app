@@ -10,7 +10,7 @@ return (
     <Nav />
     <main>
       <Us />
-      <Name />
+      <Name />  
     </main>
     <Footer />
   </div>

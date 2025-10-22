@@ -7,12 +7,12 @@ import { Link } from 'react-router-dom';
 
 const Header = () => {
   const [menuOpen, setMenuOpen] = useState(false);
-
   const toggleMenu = () => {
     setMenuOpen(!menuOpen);
-  };
+  }; 
 
-  return (
+
+  return ( 
     <header className="header">
       <div className="header-logo">
         <img src={Group1} alt="Start Logo" className="logo" />
