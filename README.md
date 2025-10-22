@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Startup Website
 
 Welcome to the Startup Website! This project is a modern, responsive web template designed for startups to showcase their brand identity, services, and portfolio. Built with React, the website provides a seamless navigation experience across mobile and desktop devices.
@@ -122,3 +123,6 @@ Thank you for checking out the Startup Website!
 
 
 
+=======
+# react-app
+>>>>>>> e027ea9555494eebd8fd1ca4b9c26d9e75201723
