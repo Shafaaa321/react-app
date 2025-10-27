@@ -1,7 +1,7 @@
 <<<<<<< HEAD
-# Startup Website
+# React App
 
-Welcome to the Startup Website! This project is a modern, responsive web template designed for startups to showcase their brand identity, services, and portfolio. Built with React, the website provides a seamless navigation experience across mobile and desktop devices.
+Welcome to the React App! This project is a modern, responsive web template designed for startups to showcase their brand identity, services, and portfolio. Built with React, the website provides a seamless navigation experience across mobile and desktop devices.
 
 
 
@@ -23,13 +23,13 @@ Welcome to the Startup Website! This project is a modern, responsive web templat
 
 ## Introduction
 
-The Startup Website is a professional and customizable web template aimed at startups looking to establish a strong online presence. It includes key pages such as a homepage and a portfolio page, built with a mobile-first design approach for excellent performance across all devices.
+The React App is a professional and customizable web template aimed at startups looking to establish a strong online presence. It includes key pages such as a homepage and a portfolio page, built with a mobile-first design approach for excellent performance across all devices.
 
 This project utilizes a modular component structure in React, making it scalable and easy to maintain. Users can navigate between pages (e.g., homepage and portfolio) via React Router, ensuring smooth transitions and experience.
 
 ## Live Demo
 
-Check out the live demo of the project: [Startup Website Demo]( https://fatimaabubakaradam.github.io/startup-website/)
+Check out the live demo of the project: [Startup Website Demo]
 
 ---
 
@@ -67,13 +67,13 @@ To get started with the Recipe Website, follow these steps:
 1. **Clone the Repository:**
 
 bash
-git clone https://github.com/fatimaabubakaradam/startup-website.git
+git clone https://github.com/Shafaaa321/react-app.git
 
 
 2. **Navigate to the Project Directory:**
 
 bash
-cd startup-website
+cd react-app
 
 
 3. **Start the developer server:**
@@ -88,8 +88,7 @@ The Startup Website is responsive and works seamlessly on all devices:
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/9022a0c8-c636-47d8-9342-5da6327f7f36)
-![image](https://github.com/user-attachments/assets/8dfc14c6-cb23-4a2a-8f01-5e38f3e3c190)
+
 
 
 
@@ -99,18 +98,13 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## Author(s)
 If you have any questions or feedback, feel free to contact:
 
-**Name:** Fatima Abubakar 
+**Name:** Shafaatu Hamza Abdullahi
 
-**Email:** zahrammcy@gmail.com 
+**Email:** shafaatuhamza22@icloud.com 
 
-**GitHub:**  Startup Website Repository
-  https://react-app-57ct.onrender.com
-**website:** https://react-app-57ct.onrender.com/
-
-
-
-
-**watch my loom video:**  https://www.loom.com/share/c5149b04d98b4d279d29cd753d2976c0
+**GitHub:**  React-app Repository
+ https://github.com/Shafaaa321/react-app.git
+**website:** 
 
 
 
@@ -118,11 +112,3 @@ If you have any questions or feedback, feel free to contact:
 Thank you for checking out the Startup Website! 
 
 
-
-
-
-
-
-=======
-# react-app
->>>>>>> e027ea9555494eebd8fd1ca4b9c26d9e75201723
